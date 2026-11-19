@@ -2,7 +2,7 @@
 
 logging rows of truth on spreadsheets for web layouts
 
-![screenshot of a loglists library](./public/images/readme/screenshot2.png)
+![screenshot of a loggings library](./public/images/readme/screenshot2.png)
 
 a spreadsheet wrapper built with "Alpine.js" that allows "searches" and "sorts", as well as "filters" by field, then shows the rows in a grid on a "website"
 
@@ -16,7 +16,7 @@ So, it can take a "Google Sheet" like this:
 
 and turn it into this "library":
 
-![screenshot of a loglists library](./public/images/readme/screenshot2.png)
+![screenshot of a loggings library](./public/images/readme/screenshot2.png)
 
 We can also have a JavaScript array with "objects" ("key-value pairs")
 
@@ -33,7 +33,7 @@ This web work has:
 
 A sample of a "dataset":
 
-![screenshot of a loglists dataset](./public/images/readme/screenshot1.png)
+![screenshot of a loggings dataset](./public/images/readme/screenshot1.png)
 
 and its spreadsheet equivalent:
 
@@ -43,11 +43,11 @@ and its spreadsheet equivalent:
 
 Run the build on either:
 
-<a href="https://loglists.joncoded.com" target="_blank"><button>loglists.joncoded.com</button></a>
+<a href="https://loggings.joncoded.com" target="_blank"><button>loggings.joncoded.com</button></a>
 
 or
 
-<a href="https://loglists.vercel.app" target="_blank"><button>loglists.vercel.app</button></a>
+<a href="https://loggings.vercel.app" target="_blank"><button>loggings.vercel.app</button></a>
 
 ## Setup
 
