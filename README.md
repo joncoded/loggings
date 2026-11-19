@@ -1,4 +1,4 @@
-# LogLists
+# Loggings
 
 logging rows of truth on spreadsheets for web layouts
 
@@ -106,6 +106,6 @@ Then, any update on the google sheets will result in a live update of the webpag
 
 ## Thanksgiving
 
-With help from:
+With help from reading the work of:
 
 * [zulfikarditya](https://medium.com/@zulfikarditya/alpine-js-the-minimalist-javascript-framework-for-modern-web-development-839382997988) 
