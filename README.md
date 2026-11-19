@@ -1,4 +1,4 @@
-# LogLists
+# Loggings
 
 logging rows of truth on spreadsheets for web layouts
 
@@ -18,7 +18,7 @@ and turn it into this "library":
 
 ![screenshot of a loggings library](./public/images/readme/screenshot2.png)
 
-We can also have a JavaScript array with "objects" ("key-value pairs")
+We can also take a JavaScript "array" with "objects" ("key-value pairs")
 
 or 
 
@@ -26,7 +26,7 @@ a "Google Sheet" to freshen data quickly in real-time with no "coding"!
 
 ## Hallmarks
 
-This web work has:
+This "loggings" workflow has:
 
 * a **library** (a "list of lists" which comes from a "workbook")
 * a **dataset** (a one-off "list" which comes from a "worksheet")
@@ -47,7 +47,7 @@ Run the build on either:
 
 or
 
-<a href="https://loggings.vercel.app" target="_blank"><button>loggings.vercel.app</button></a>
+<a href="https://loglists.vercel.app" target="_blank"><button>loglists.vercel.app</button></a>
 
 ## Setup
 
@@ -106,6 +106,6 @@ Then, any update on the google sheets will result in a live update of the webpag
 
 ## Thanksgiving
 
-With help from:
+With help from reading the work of:
 
 * [zulfikarditya](https://medium.com/@zulfikarditya/alpine-js-the-minimalist-javascript-framework-for-modern-web-development-839382997988) 
