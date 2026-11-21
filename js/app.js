@@ -7,8 +7,9 @@ const libraryData = async () => {
 }
 
 function isValidDateFormat(dateString) {
-  const regex = /^\d{4}-\d{2}-\d{2}$/;
-  return regex.test(dateString);
+  const regex1 = /^\d{4}-\d{2}-\d{2}$/;
+  const regex2 = /^\d{4}-\d{2}-\d{2} \d{2}:\d{2}$/;
+  return regex1.test(dateString) || regex2.test(dateString);
 }
 
 function app() {
